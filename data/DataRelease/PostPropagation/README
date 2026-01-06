@@ -1,0 +1,7 @@
+These files contain the fluxes after solar propagation and Sun-to-Earth oscillations.  Each primary model is evaluated as well as two charm models, MRS and SIBYLL2.3.  The fluxes are separated into neutrino and antineutrino files. The format is:
+
+Energy    NuE_flux    NuMu_flux   NuTau_flux
+
+Energies in GeV and fluxes in GeV^-1 cm^-2 s^-1 sr^-1.
+
+Plots of all included fluxes can be found in the Plots folder.

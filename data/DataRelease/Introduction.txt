@@ -1,0 +1,21 @@
+This folder contains simulated fluxes of solar atmopsheric neutrinos accompanying the work:
+
+"Solar Atmospheric Neutrinos and the Sensitivity Floor for Solar Dark Matter Annihilation Searches"
+C.A. Argüelles, G. de Wasseige, A. Fedynitch, B.J.P. Jones
+https://arxiv.org/abs/1703.07798
+
+
+We present a limited simulation release in two folders:
+PrePropagation:
+ -solar atmospheric neutrino fluxes predicted at each impact parameter for a variety of primary cosmic ray models and for each neutrino flavor.
+PostPropagation 
+ -solar atmopsheric neutrino fluxes after propagation through the Sun and between Sun and Earth, aggregated over impact factors.
+
+Both folders contain a README with format information, as well as summary plots and scripts with which they were generated, in jupyter notebook format.
+
+Any questions about these fluxes should be directed to the authors:
+caad@mit.edu, gdewasse@vub.ac.be, anatoli.fedynitch@desy.de, ben.jones@uta.edu
+
+
+Last update:
+Friday April 21, 2017.

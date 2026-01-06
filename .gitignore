@@ -32,3 +32,6 @@ Thumbs.db
 
 # Data (uncomment if data files are large/sensitive)
 # data/
+
+# copilot logs
+.github/copilot*
